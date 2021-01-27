@@ -1,3 +1,5 @@
+0.2.6 (2021-02-02)
+- Support OpenSsh.
 0.2.5 (2020-08-10)
 - Close unused Session.
   - https://github.com/embulk/embulk-output-sftp/pull/60
